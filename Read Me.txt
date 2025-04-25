@@ -1,0 +1,41 @@
+# 🌍 East Africa Climate Dynamics & Network Analysis (2010–2023)
+This project analyzes the **spatial-temporal dynamics** and **network structure** of key climate variables across East African capital cities using Python and Google Colab.
+🔗 **GitHub**: [East Africa Climate Variables Dynamics and Network Analysis](https://github.com/Ibrahim-Kushieb/East-Africa-Climate-Variables-Dynamics-and-Network-analysis-2010---2023-)
+
+## 📌 Objectives
+- Visualize long-term trends of:
+  - 🌡️ Temperature
+  - 🌧️ Rainfall
+  - 💧 Humidity
+  - 🌬️ Wind Speed
+- Analyze **correlations** , **Timeseries** , **Maps** and **interdependencies** using complex network science.
+## 🌐 Region of Study
+Capital cities of:  
+**Kenya, Uganda, Ethiopia, Burandi, Rwanda, Tanzania, Djibouti, Somalia**
+## 📁 Structure
+- Notebooks of Codes  
+- `data/`: Climate data files (CSV/Excel)  
+- `visualizations/`: Saved maps and plots  
+
+## 🛠️ Tools & Libraries
+- Google Colab (Python 3)
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly, GeoPandas
+- NetworkX, SciPy, Scikit-learn
+## ▶️ How to Use
+1. Open notebooks that include code one by one separately in google Colab or Jupyter 
+2. Upload the data when prompted.
+3. Run all cells.
+
+## 📈 Key Insights
+- Regional trends and anomalies in climate data  
+- Network-based identification of critical variables and influential cities  
+- Useful for climate resilience planning and regional policy-making
+## 👤 Author
+**Ibrahim Kushieb**  
+- M.Tech, Complex Systems (IIT Madras)  
+- MSc, Computer Science (Wuhan University of Technology)
+- BSC, Information Technology ( University of Khartoum)  
+- Focus: Data Science, Data Analysis, Climate Data, Complex Networks, Reinforcement Learning
+
+## 📜 License
+MIT License – see the [LICENSE](LICENSE) file.
